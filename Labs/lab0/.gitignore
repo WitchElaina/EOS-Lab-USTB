@@ -1,0 +1,8 @@
+/*.img
+/bochs
+/Debug
+/Release
+*.bak
+*.lst
+*.o
+.DS*

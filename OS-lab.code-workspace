@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.encoding": "gbk",
+		"files.associations": {
+			"eosapp.h": "c",
+			"__locale": "c",
+			"locale": "c",
+			"fat12.h": "c"
+		},
+		"color-highlight.languages": [
+			""
+		]
+	}
+}

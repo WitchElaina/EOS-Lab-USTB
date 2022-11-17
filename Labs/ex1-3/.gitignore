@@ -1,0 +1,9 @@
+/*.img
+/bochs
+/Debug
+/Release
+/sdk
+*.bak
+*.lst
+*.o-e 
+.DS_Store
